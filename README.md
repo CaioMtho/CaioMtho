@@ -1,27 +1,18 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMtho" alt="Top Langs" min-width="400px" max-width="400px" width="400px" align="right">
+# Opa, eu sou o Caio
 
-<p align="left"> 
-  Me chamo <strong>Caio Matheus</strong>, sou estudante e desenvolvedor de software focado no <strong>back-end</strong>.<br>
-  Busco iniciação profissional na área e estou sempre disposto a aprender coisas novas.
-</p>
+- 💻 Atualmente estagiário na **Skyone Solutions**
+- 📖 Desenvolvedor de software e estudante da **FATEC**
+- 🤔 Tenho maior afinidade com backend, mas me viro em qualquer coisa 
 
-<p align="left">
-  🤖 <strong>Linguagens:</strong> C#, Java, JavaScript, Python, Node.js
-</p>
+## Algumas coisas que já usei...
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="left">
-  🧰 <strong>Ferramentas:</strong> .NET, ASP.NET, Entity Framework, Spring, MongoDB, MySQL, PostgreSQL, Hibernate, Git
-</p>
-
-<p align="left">
-  💌 Contatos:
-</p>
-
-<p align="left">
-  <a href="mailto:caiomathol@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/caio-matheus-de-oliveira-73656a2b2/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiomtho)
