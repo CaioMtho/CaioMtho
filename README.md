@@ -1,6 +1,6 @@
 # Opa, eu sou o Caio
 
-- 💻 Atualmente estagiário na **Skyone Solutions**
+- 💻 Estagiário na **Skyone Solutions**
 - 📖 Desenvolvedor de software e estudante da **FATEC**
 - 🤔 Tenho maior afinidade com backend, mas me viro em qualquer coisa 
 
